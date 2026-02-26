@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "name": "Ali",
+      "group": "SE-101",
+      "courses": [
+        "Math",
+        "Physics"
+      ]
+    },
+    {
+      "name": "Malika",
+      "group": "SE-102",
+      "courses": [
+        "Math"
+      ]
+    },
+    {
+      "name": "Bunyod",
+      "group": "IT-202",
+      "courses": [
+        "Math",
+        "Statistics"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "name": "Math",
+      "credit": 5,
+      "semester": 1,
+      "students": [
+        "Ali",
+        "Malika",
+        "Bunyod"
+      ]
+    },
+    {
+      "name": "Physics",
+      "credit": 4,
+      "semester": 1,
+      "students": [
+        "Ali"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "credit": "8",
+      "semester": "2",
+      "students": [
+        "Bunyod"
+      ]
+    }
+  ]
+}

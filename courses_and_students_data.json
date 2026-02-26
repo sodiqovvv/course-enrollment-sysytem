@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Ali",
+      "group": "SE-101",
+      "courses": ["Math", "Physics"]
+    },
+    {
+      "name": "Malika",
+      "group": "SE-102",
+      "courses": ["Math"]
+    }
+  ],
+  "courses": [
+    {
+      "name": "Math",
+      "credit": 5,
+      "semester": 1
+    },
+    {
+      "name": "Physics",
+      "credit": 4,
+      "semester": 1
+    }
+  ]
+}
